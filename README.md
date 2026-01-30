@@ -6,7 +6,7 @@ DOMAIN : MACHINE LEARNING
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH 
 
-Task 1: Decision Tree Model – Classification and Visualization
+Task 1: Decision Tree Model  – Classification and Visualization
 Task Description
 The objective of Task 1 is to build and visualize a Decision Tree model using the Scikit-learn library. Decision Trees are supervised machine learning algorithms widely used for classification and regression problems because of their simplicity, interpretability, and effectiveness.
 In this task, a suitable dataset is selected where the goal is to predict a target variable based on multiple input features. The dataset is first explored to understand its structure, feature types, and potential data quality issues such as missing values or outliers.
