@@ -21,3 +21,4 @@ A Jupyter Notebook containing:
 •	Decision Tree implementation
 •	Model visualization
 •	Performance evaluation and analysis
+<img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/b53c8cb1-08ef-4995-bb6a-8d61addd6944" />
